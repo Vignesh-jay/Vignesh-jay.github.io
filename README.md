@@ -1,2 +1,2 @@
 # Vignesh-jay.github.io
-Online Resume Repo
+This one is My Online Resume  to showcase my Skills
