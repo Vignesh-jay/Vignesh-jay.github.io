@@ -1,4 +1,4 @@
-# Vignesh-jay.github.io
+# Vignesh-jay.xyz
 This is the Default Repo for Mr. Jay.
-Continue to https://vignesh-jay.github.io/ to view his Dashboard
-Continue to https://vignesh-jay.github.io/Resume/ to View his online Portfolio
+Continue to https://dashboard.vignesh-jay.xyz/ to view his Dashboard
+Continue to https://resume.vignesh-jay.xyz/ to View his online Portfolio
